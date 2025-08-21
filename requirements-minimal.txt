@@ -1,0 +1,21 @@
+# Minimal Requirements (Without Voice Features)
+# Use this file if pyaudio installation fails: pip install -r requirements-minimal.txt
+
+# Core Dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+
+# AI Providers
+google-generativeai==0.3.2
+openai==1.3.9
+
+# HTTP and Web
+requests==2.31.0
+python-multipart==0.0.6
+
+# Configuration
+python-dotenv==1.0.0
+
+# Note: This excludes voice features (SpeechRecognition, pyttsx3, pyaudio)
+# The app will work normally for text-based conversations
