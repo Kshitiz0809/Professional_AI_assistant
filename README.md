@@ -6,7 +6,7 @@ A modern, multi-provider AI assistant with voice capabilities, built with Python
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
-
+![Demo Link](https://youtu.be/GTWvF_WH6D0)
 ## ✨ Features
 
 ### 🧠 **Multi-Provider AI Support**
